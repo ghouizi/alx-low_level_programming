@@ -1,19 +1,13 @@
 #include <stdio.h>
-/*
+/**
+ * main - function
  * program that prints _putchar
- * The program should return 0
+ * Return: The program should return 0
  */
 int main(void)
-/* This program prints "_putchar" followed by a new line. */
+
 {
-	putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
+	putchar('_putchar');
 	putchar('\n');
 	return (0);
 }
