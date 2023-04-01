@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ * This function is the entry point of the program.
+ * It initializes an integer array and a pointer to an integer,
+ * then modifies the array using pointer arithmetic.
+ * Return: Always 0
+ */
 int main(void)
 {
 	int n;
