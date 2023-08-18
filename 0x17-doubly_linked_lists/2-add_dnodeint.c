@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdlib.h>
 
 /**
  * add_dnodeint - Ajoute un nouveau nœud au début d'une liste dlistint_t.
